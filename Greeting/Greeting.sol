@@ -17,4 +17,9 @@ contract Greeting {
         return string(abi.encodePacked(greetingPrefix, name));
     }
 
+    /*
+    receive() external payable {
+        emit Deposit(msg.sender, msg..value);
+    }
+    */
 }
