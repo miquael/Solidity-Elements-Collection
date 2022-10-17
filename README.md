@@ -14,10 +14,12 @@ Fundamentals:
 - Greeting.sol
 
 
-Fundamentals:
+NFT-Types:
 
 - chainlink-the-graph
 
 - NFT-basic
 
-- NFT-mix : using Alchemy & IPFS, but final NFT did not incorpate metadata
+- NFT-mix : 
+From this tutorial: https://docs.alchemy.com/docs/how-to-mint-an-nft-from-code#step-4-configure-the-metadata-for-your-nft-using-ipfs
+using Alchemy & IPFS, but final NFT did not incorpate metadata (unresolved)
