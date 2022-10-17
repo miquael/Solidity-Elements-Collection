@@ -7,19 +7,22 @@ a collection of elemental Solidity smart contract scripts
 
 -------------------------------------------------------
 
-Overview:
+## Overview:
 
-Fundamentals:
+### Fundamentals:
 
 - Greeting.sol
 
 
-NFT-Types:
+### NFT-Types:
 
 - chainlink-the-graph
 
 - NFT-basic
 
 - NFT-mix : 
-From this tutorial: https://docs.alchemy.com/docs/how-to-mint-an-nft-from-code#step-4-configure-the-metadata-for-your-nft-using-ipfs
-using Alchemy & IPFS, but final NFT did not incorpate metadata (unresolved)
+From this tutorial:
+```
+ https://docs.alchemy.com/docs/how-to-mint-an-nft-from-code#step-4-configure-the-metadata-for-your-nft-using-ipfs
+```
+Using Alchemy & IPFS, but final NFT did not incorpate metadata (unresolved)
