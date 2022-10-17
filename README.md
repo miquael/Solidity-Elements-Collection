@@ -20,7 +20,7 @@ a collection of elemental Solidity smart contract scripts
 
 - NFT-basic
 
-- NFT-mix : Using Alchemy & IPFS, but final NFT did not incorpate metadata (unresolved. From this tutorial:
+- NFT-mix : Using Alchemy & IPFS, but final NFT did not incorpate metadata (unresolved). From this tutorial:
 
 [How to Mint an NFT from Code](https://docs.alchemy.com/docs/how-to-mint-an-nft-from-code)
 
