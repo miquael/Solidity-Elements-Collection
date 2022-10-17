@@ -20,9 +20,8 @@ a collection of elemental Solidity smart contract scripts
 
 - NFT-basic
 
-- NFT-mix : 
-From this tutorial:
-```
- https://docs.alchemy.com/docs/how-to-mint-an-nft-from-code#step-4-configure-the-metadata-for-your-nft-using-ipfs
-```
-Using Alchemy & IPFS, but final NFT did not incorpate metadata (unresolved)
+- NFT-mix : Using Alchemy & IPFS, but final NFT did not incorpate metadata (unresolved. From this tutorial:
+
+[How to Mint an NFT from Code](https://docs.alchemy.com/docs/how-to-mint-an-nft-from-code)
+
+
