@@ -18,10 +18,11 @@ a collection of elemental Solidity smart contract scripts
 
 - chainlink-the-graph
 
+- hardhat-nft-tutorial
+
 - NFT-basic
 
 - NFT-mix : Using Alchemy & IPFS, but final NFT did not incorpate metadata (unresolved). From this tutorial:
 
 [How to Mint an NFT from Code](https://docs.alchemy.com/docs/how-to-mint-an-nft-from-code)
-
 
