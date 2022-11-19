@@ -20,6 +20,8 @@ a collection of elemental Solidity smart contract scripts
 
 - hardhat-nft-tutorial
 
+- NFT-14-Lines
+
 - NFT-basic
 
 - NFT-mix : Using Alchemy & IPFS, but final NFT did not incorpate metadata (unresolved). From this tutorial:
